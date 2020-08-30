@@ -10120,6 +10120,11 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+section.resume-section .img-resume {
+    max-width: 20rem;
+    max-height: 20rem;
+  }
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
